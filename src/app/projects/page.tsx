@@ -93,30 +93,11 @@ export default function ProjectsPage() {
 			{/* PROJECTS GRID */}
 			<section className="grid md:grid-cols-2 gap-8">
 				<ProjectPreview
-					title="ArgentFlows"
-					description="Business automation platform focused on scraping, data analysis, and workflow optimization."
-					stack="Next.js • TypeScript • Express • PostgreSQL"
-					href="/projects/argentflows"
-					live="https://argentflows.vercel.app"
-					status="In Progress"
-				/>
-
-				<ProjectPreview
-					title="LittleFlows"
-					description="A productivity focused social platform designed to reduce noise and encourage intentional usage."
-					stack="Next.js • TypeScript • Express • PostgreSQL"
-					href="/projects/littleflows"
-					live="https://littleflows.vercel.app"
-					status="In Progress"
-				/>
-
-				<ProjectPreview
 					title="PingElo"
-					description="Open source ranked table tennis platform for tracking matches and leaderboards."
+					description="Ranked table tennis platform for tracking matches and leaderboards."
 					stack="Next.js • TypeScript • Express • PostgreSQL"
 					href="/projects/pingelo"
-					live="https://pingelo.vercel.app"
-					github="https://github.com/joshu-git/pingelo"
+					live="https://pingelo.leapcell.app"
 					status="Active"
 				/>
 			</section>
