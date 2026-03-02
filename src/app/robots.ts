@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
 			userAgent: "*",
 			allow: "/",
 		},
-		sitemap: "https://joshuaargent.vercel.app/sitemap.xml",
+		sitemap: "https://joshuaargent.leapcell.app/sitemap.xml",
 	};
 }

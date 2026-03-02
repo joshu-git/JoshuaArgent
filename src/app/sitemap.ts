@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 
 //Gives importance to different pages
 export default function sitemap(): MetadataRoute.Sitemap {
-	const baseUrl = "https://joshuaargent.vercel.app";
+	const baseUrl = "https://joshuaargent.leapcell.app";
 
 	return [
 		{
