@@ -81,7 +81,7 @@ A modular platform combining:
 
 ## ⚡ Philosophy
 
-> Build systems where real-world effort translates into measurable progress.
+> Build systems where real world effort translates into measurable progress.
 
 ---
 
