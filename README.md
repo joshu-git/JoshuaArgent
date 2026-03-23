@@ -1,29 +1,30 @@
 # ⚡ Joshua Argent
 
-**Founder of EloFlos - a platform that gamifies real world progress**
+**Founder of EloFlos | Gamify Real World Progress**
 
 ---
 
 ## 🧠 About Me
 
-I’m the creator of **EloFlos**, a modular platform that transforms real-world activities into competitive, social experiences. Initially developed as **PingElo** - a table tennis ranking system - EloFlos now supports a variety of domains like sport, fitness, and personal development through **XP progression systems** and **social group dynamics**.
+I’m the creator of **EloFlos**, a full stack platform that tracks real-world activities and converts them into structured progression systems (XP, levels, leagues).
 
-I'm passionate about building scalable systems that make **progress visible, competitive, and meaningful**. I’m focused on **user engagement, system design**, and creating a **strong social network** around personal growth.
+I build systems that:
 
-* 🔭 Building: **EloFlos (multi module platform)**
-* 🧩 Focus: **Gamification, XP progression, social engagement**
-* 🌱 Currently improving: **System scalability and user experience**
-* 💬 Ask me about: **XP systems, gamification, backend validation, or social growth platforms**
-* 🏓 Fun fact: I love table tennis (it inspired **PingElo**)
+* record and validate user activity
+* calculate progression (XP, levels, rankings)
+* present data through responsive dashboards and social features
+
+I’m focused on **full stack development, system design, and building products with strong user engagement loops**.
 
 ---
 
 ## 🚀 Current Work
 
 * 🏗️ Building **EloFlos** (multi-module platform: sport, fitness, productivity)
-* 🧩 Designing scalable systems: **XP, levels, leagues, economy**
-* 🔐 Developing secure architecture using **Supabase (RLS) + backend validation**
-* 🎯 Refining UX across **navigation, dashboards, and social systems**
+* ⚙️ Developing backend systems using **NestJS (Fastify)** and Supabase
+* 🧩 Designing progression systems: XP, levels, leagues, rewards
+* 🔐 Implementing secure data handling with **RLS + backend validation**
+* 🎯 Refining frontend architecture and UI using **Next.js**
 
 ---
 
@@ -32,42 +33,53 @@ I'm passionate about building scalable systems that make **progress visible, com
 **EloFlos (formerly PingElo)**
 → https://eloflos.vercel.app
 
-A modular platform combining:
+A platform where users:
 
-* Competitive leagues
-* Experience based progression
-* Social groups and identity
-* Cross domain personal growth
+* track real-world activity
+* gain XP and level up
+* compete in leagues
+* interact through social features
+
+---
+
+## ⚙️ Key Technical Work
+
+* Designed a reusable XP and leveling system that supports multiple activity types
+* Built backend validation to enforce data integrity alongside Supabase RLS
+* Structured a modular system allowing new domains to plug into the same progression engine
+* Developed responsive dashboards and navigation systems using Next.js
+* Designed backend services using **NestJS with Fastify** for performance and scalability
 
 ---
 
 ## 🧱 Tech Stack
 
-**Core**
-<br>
+**Core** <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge\&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge\&logo=express)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge\&logo=next.js)
 
-**Backend & Data**
-<br>
+**Backend** <br>
+![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge\&logo=nestjs)
+![Fastify](https://img.shields.io/badge/Fastify-0A0A0A?style=for-the-badge\&logo=fastify)
+![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge\&logo=express)
+
+**Data** <br>
 ![Postgres](https://img.shields.io/badge/Postgres-0A0A0A?style=for-the-badge\&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge\&logo=supabase)
 
-**Infra**
-<br>
+**Infra** <br>
 ![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge\&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge\&logo=render)
 
 ---
 
-## 🧩 System Design Focus
+## 🧩 System Design
 
-* Modular architecture for multi-activity support (sports, fitness, productivity)
-* XP progression and leagues that adapt across modules
-* Social systems for community engagement and growth
-* Secure backend validation using Supabase and Express
+* Modular architecture supporting multiple activity domains
+* Shared progression system across all modules
+* Backend validation layer combined with database-level security (RLS)
+* Separation between frontend, API, and data layers
 
 ---
 
@@ -92,5 +104,3 @@ Feel free to reach out for:
 * Collaboration
 * Feedback
 * Early access to **EloFlos**
-
----
