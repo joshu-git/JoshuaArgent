@@ -22,11 +22,11 @@ My focus is on **full stack development, system design, and building products th
 
 ## 🚀 Current Work
 
-* 🏗️ Building **EloFlos** (multi-module platform: sport, fitness, productivity)
-* ⚙️ Developing backend systems using **NestJS (Fastify)** and Supabase
-* 🧩 Designing progression systems: XP, levels, leagues, rewards
-* 🔐 Implementing secure data handling with **RLS + backend validation**
-* 🎯 Refining frontend architecture and UI using **Next.js**
+* Building **EloFlos** (multi-module platform: sport, fitness, productivity)
+* Developing backend systems using **NestJS (Fastify)** and Supabase
+* Designing progression systems: XP, levels, leagues, rewards
+* Implementing secure data handling with **RLS + backend validation**
+* Refining frontend architecture and UI using **Next.js**
 
 ---
 
