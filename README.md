@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I’m the creator of **EloFlos**, a fullbstack platform that tracks real world activities and converts them into structured progression systems (XP, levels, leagues).
+I’m the creator of **EloFlos**, a full stack platform that tracks real-world activities and converts them into structured progression systems (XP, levels, leagues).
 
 I build systems that:
 
@@ -16,7 +16,7 @@ I build systems that:
 * calculate progression (XP, levels, rankings)
 * present data through dashboards and social features
 
-I’m focused on **full stack development, system design, and building products that people actively use**.
+My focus is on **full stack development, system design, and building products that people actively use**.
 
 ---
 
@@ -40,7 +40,7 @@ A platform where users:
 * track real-world activity
 * gain XP and level up
 * compete in leagues
-* interact through social features
+* interact through shared systems
 
 ---
 
@@ -50,16 +50,17 @@ A platform where users:
 * Built backend validation to enforce data integrity alongside Supabase RLS
 * Structured a modular system allowing new domains to plug into the same progression engine
 * Developed responsive dashboards and navigation systems using Next.js
-* Designed backend services using **NestJS with Fastify** for performance and scalability
+* Designed backend services using **NestJS (Fastify)** for performance and scalability
 
 ---
 
-## 📌 Featured Projects
+## 🧩 System Ecosystem
 
-* **EloFlos** - Full stack platform for XP, progression, leagues, and social features *(code private)*
-* **NextJsTemplate** - Reusable frontend starter with layout, navigation, and theming
-* **NestJsTemplate** - Backend starter using NestJS (Fastify), modular architecture, and validation
-* **Portfolio** - Personal website showcasing projects and technical work
+* **EloFlos** - Core platform (progression, leagues, social systems) *(private)*
+* **EloFlosMerch** - Physical extension of platform identity and rewards
+* **NextJsTemplate** - Reusable frontend foundation (layout, navigation, design system)
+* **NestJsTemplate** - Backend foundation (modular architecture, validation, API structure)
+* **Portfolio** - Presentation layer for projects and system design
 
 ---
 
@@ -89,14 +90,14 @@ A platform where users:
 
 * Modular architecture supporting multiple activity domains
 * Shared progression system across all modules
-* Backend validation combined with database level security (RLS)
+* Backend validation combined with database-level security (RLS)
 * Clear separation between frontend, API, and data layers
 
 ---
 
 ## ⚡ Philosophy
 
-> Build systems where real world effort translates into measurable progress.
+> Build systems where real-world effort translates into measurable progress.
 
 ---
 
